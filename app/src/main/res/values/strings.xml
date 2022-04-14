@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TestProjectForCommits</string>
     <string name="how_are_you">how are you?</string>
+    <string name="hello_world">How are you?</string>
 </resources>
